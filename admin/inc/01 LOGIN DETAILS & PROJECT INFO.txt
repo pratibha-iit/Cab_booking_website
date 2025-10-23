@@ -1,0 +1,17 @@
+
+
+**Database Name: cbsphp**
+
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Username: admin / cabbooking
+Password: Password@123 / Prem@9065
+
+**Driver's Reg.Code can be found under Cab Management Section**
+
+ driver remove 
+ show number during booking if user user want to booking throw call  7250850915
