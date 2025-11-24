@@ -61,7 +61,7 @@
 <!-- Footer-->
 <footer class="py-4 bg-dark">
             <div class="container">
-              <p class="m-0 text-center text-white">&copy; <?php echo $_settings->info('short_name') ?> <?php echo date('Y');?> >> Developed By: Prem Shankar</p>
+              <p class="m-0 text-center text-white">&copy; <?php echo $_settings->info('short_name') ?> <?php echo date('Y');?> >> Developed By: Pratibha Mathur</p>
           </div>
         </footer>
 
